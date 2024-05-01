@@ -1,0 +1,18 @@
+/* Copyright (c) 2024 YA-androidapp(https://github.com/yzkn) All rights reserved. */
+
+
+.bd-placeholder-img {
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    font-size: 1.125rem;
+    object-fit: contain;
+    text-anchor: middle;
+    user-select: none;
+    aspect-ratio: 1;
+}
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+    }
+}
